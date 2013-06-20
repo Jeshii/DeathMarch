@@ -13,7 +13,7 @@ Bylaws
 
 The bylaws are the official rules of the Death March.
 
-Any change to the bylaws must be voted upon and radified with high fives by a triumvirate of Officers.
+Any change to the bylaws must be voted upon and radified with high fives by a triumvirate of Officers. Anytime a triumvirate of officers meet in person, they must pass, amend, fix, modify, or semantically adjust a bylaw.
 
 Term
 ====
