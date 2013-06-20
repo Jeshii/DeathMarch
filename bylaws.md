@@ -71,7 +71,7 @@ If someone arrives late to the Death March, but then catches-up with any of the 
 Absentee Marches
 ----------------
 
-Absentee Marches are marches undertaken to make up for not being able to attend a Death March. They must be at least as long as the Death March in miles and must occur during the summer. Absentee Marches are based on trust, but must be approved by the Grand Marshal. Approved Absentee Marches are worth two (2) rank points, restore one to the list of ranking officers, and confer any titles earned for Punishments undertaken on the Absentee March.
+Absentee Marches are marches undertaken to make up for not being able to attend a Death March. They must be at least as long as the Death March in miles and must occur during the summer. Absentee Marches are based on trust, but must be approved by the Grand Marshal. Approved Absentee Marches are worth two (2) rank points, restore one to the list of ranking officers, and confer any titles earned for Punishments undertaken on the Absentee March. Anyone who attends an Absentee March for support cannot be stripped of titles for not performing punishments earned on an official March, but it is considered bad form to do so.
 
 Officers who earned four (4) rank points for the year cannot earn any more points. Officers who did not complete the Official March may go on an Absentee March that year to receive one (1) extra point for a total of three (3) for the year. Officers who earned three (3) rank points for the year due to the Latest Member Penalty may go on an Absentee March that year to reveive one (1) extra point for a total of four (4) for the year.
 
