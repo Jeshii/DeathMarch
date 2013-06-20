@@ -31,9 +31,7 @@ The March must be held in the summer. The Death March shall never occur in anoth
 
 The Grand Marshal is responsible for coordinating with others to plan a date. This date must be agreed upon by a triumvirate of ranking members of the Death March.
 
-If by August 20th, the Grand Marshal has not solidified a date for the Death March, the Lieutenant Marshal must schedule the March as soon as possible with or without the consent of the Grand Marshal. If no march has been scheduled by September 1st, any ranking officer of the March may schedule a date.
-
-If the March is not held by the Autumnal Equinox, the line of succession is broken and these bylaws will cease to be in force. A new charter must be drawn after that.
+If by midnight, August 21st, the Grand Marshal has not solidified a date for the Death March, the next ranking member of the March has 24 hours to schedule and inform the public of the date as acting Grand Marshal. If this member does not plan and inform within 24 hours, they lose this opportunity. This process continues every 24 hours with the next ranking member as acting Grand Marshal until Autumnal Equinox, at which the line of succession is broken and these bylaws will cease to be in force.
 
 Once the date of the Death March has been determined, the current winning team must choose a theme within one month. Failure to do so will result in the privilege of choosing the theme passing to the team of the Premiere. The Premiere’s team then has one month to pick a theme. Failure to do so will result in the privilege passing to the Grand Marshal. If the Death March occurs before any of these deadlines, the day before the Death March shall become the deadline.
 
@@ -55,7 +53,7 @@ Absentee Marches
 
 Absentee Marches are marches undertaken to make up for not being able to attend the March. They must be at least as long as the Death March in miles. Absentee Marches are based on trust, but must be approved by the Grand Marshal. Approved Absentee Marches are worth two (2) rank points, restore one to the list of ranking member, and confer any titles earned for Punishments undertaken on the Absentee March. Anyone who attends an Absentee March for support cannot be stripped of titles for not performing punishments earned on an official March, but it is considered bad form to do so.
 
-Members who earned rank points on the Official March for the year cannot earn any more points. Members who failed to complete the Official March may go on an Absentee March that year to receive two (2) points for the year.
+Members who earned rank points on the Official March for the year cannot earn any more points for merely attending an absentee march. Members who failed to complete the Official March may go on an Absentee March that year to receive two (2) points for the year.
 
 Incomplete Marches
 ------------------
@@ -87,6 +85,15 @@ Drivers
 -------
 
 Anyone who helps shuttle people between the Palisades and Reseda is entitled to one (1) extra rank point for their dedication to the cause.
+
+Seasonal Marches
+----------------
+
+In an effort to keep interest in the Death March up and to recruit new members, marches shall be held every season. As the Grand Marshal is generally in charge of Summer’s Death March, each full Officer must organize a March for each other season. Which officer is in charge of which season shall be determined by the Grand Marshal at the end of the Banquet.
+
+This seasonal march must be held in the assigned season. All seasonal marches will count as absentee marches. The Officer in Charge is the last word for everything involved with this seasonal march. The Officer in Charge is given one (1) extra rank point for every five (5) marchers who complete this particular seasonal march to distribute as they please.
+
+Any season that goes by without an official seasonal march will cause the Officer in charge of said season to lose both one (1) rank point and eligibility to hold Office the next year.
 
 Point Decay
 -----------
@@ -146,11 +153,11 @@ Anyone who can provide transportation from the Palisades back to the start is el
 
 Team Size
 ---------
-A team may only be as big as the transportation the captain can provide. If more than one team captain wants to form a common team, they must choose amongst themselves who will be the captain. Anyone who drives but does not become a captain will be known as a ranger. A team must consist of 2 or more people.
+A team may only be as big as the transportation the captain can provide. If more than one driver wants to form a common team, they must choose amongst themselves who will be the captain. Anyone who drives but does not become a captain will be known as a ranger. A team must consist of 2 or more people.
 
 Team Flair
 ----------
-All teams may choose a name, team colors, and a mascot.
+All teams may choose a name, team colors, motto, and a mascot.
 
 Team Completion
 ---------------
