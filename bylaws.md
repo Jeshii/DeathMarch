@@ -41,7 +41,15 @@ Rank is determined by number of rank points a person holds.
 Completed Official Marches
 --------------------------
 
-Four (4) rank points are earned for any completed march.
+Three (3) rank points are earned for any completed march.
+
+
+Absentee Marches
+----------------
+
+Absentee Marches are marches undertaken to make up for not being able to attend the March. They must be at least as long as the Death March in miles and must occur during the summer. Absentee Marches are based on trust, but must be approved by the Grand Marshal. Approved Absentee Marches are worth two (2) rank points, restore one to the list of ranking member, and confer any titles earned for Punishments undertaken on the Absentee March. Anyone who attends an Absentee March for support cannot be stripped of titles for not performing punishments earned on an official March, but it is considered bad form to do so.
+
+Members who earned rank points on the Official March for the year cannot earn any more points. Members who failed to complete the Official March may go on an Absentee March that year to receive two (2) points for the year.
 
 Incomplete Marches
 ------------------
@@ -57,29 +65,31 @@ Ties
 ----
 
 Any ties in rank points can then be further determined by the following criteria:
-1. Anyone with more Total Complete Official Marches out ranks someone who has less.
-2. Recent Consecutive Complete Official Marches are used to break any further ties.
-3. If any ties remain, rock-paper-scissors is used to determine appropriate ranking.
 
-Latest Member Penalty
----------------------
+1. Anyone who is late to a March immediately loses any ties for the year
+2. Anyone with more Total Complete Official Marches wins any further ties
+3. More Recent Consecutive Complete Official Marches are used to break any further ties
+4. If any ties remain, rock-paper-scissors is used to determine appropriate ranking
 
-The last person to join the march 30 minutes after the official starting time will be penalized one (1) rank point, therefore earning only three (3) points for a completed March or only one (1) point if they do not complete the March.
 
 Catch-up Marches
 ----------------
 
-If someone arrives late to the March, but catches-up with any of the initial marching members before the last one touches the Ocean, this person is fully eligible to finish the march as if they had begun it with the rest of the members. They may, however, still be subject to the latest member penalty.
+If someone arrives late to the March, but catches-up with any of the initial marching members before the last one touches the Ocean, this person is fully eligible to finish the march as if they had begun it with the rest of the members. They are, however, still subject to losing ties due to being late.
 
-Absentee Marches
-----------------
+Drivers
+-------
 
-Absentee Marches are marches undertaken to make up for not being able to attend a Death March. They must be at least as long as the Death March in miles and must occur during the summer. Absentee Marches are based on trust, but must be approved by the Grand Marshal. Approved Absentee Marches are worth two (2) rank points, restore one to the list of ranking members, and confer any titles earned for Punishments undertaken on the Absentee March. Anyone who attends an Absentee March for support cannot be stripped of titles for not performing punishments earned on an official March, but it is considered bad form to do so.
+Anyone who helps shuttle people between the Palisades and Reseda is entitled to one (1) extra rank point for their dedication to the cause.
 
-Officers who earned four (4) rank points for the year cannot earn any more points. Officers who did not complete the Official March may go on an Absentee March that year to receive one (1) extra point for a total of three (3) for the year. Officers who earned three (3) rank points for the year due to the Latest Member Penalty may go on an Absentee March that year to reveive one (1) extra point for a total of four (4) for the year.
+Point Decay
+-----------
+
+Rank points decay exponentially at a rate of -0.25. Decay calculations are calculated by year, so the date during the year at which one does a Death March or Absentee March does not enter into the calculation.
 
 Officers
 ========
+Officers are the leaders of the Death March. No one person can hold more than one officership, with the exception of Vanguard.
 
 Grand Marshal
 -------------
@@ -96,21 +106,48 @@ Vice Lieutenant Marshal
 
 The Vice Lieutenant Marshal is the manager of the Punishments. They are responsible for the planning and implementing of Punishments. This title is given to whoever may have the third highest rank.
 
+Premier
+-------
+
+The Premier is the leader of the largest team to finish the Death March. If more than one team is tied for most amount of people, the leaders of those teams will agree to a competitive game and the winner of said game will become the Premier.
+
+The Premier has full voting and nominating privileges.
+
 Chancellors
 -----------
 
 Chancellors are the leaders of the various support corps of the Death March. A Chancellor can be nominated by any Marshal. Upon confirmation by the other two Marshals, the Chancellor gains a title such as "Chancellor of Transportation" or "Chancellor of Banquets."They will hold this office until they resign, miss a march, or are stripped of their title by a triumvirate of officers.
 
-A unanimous vote of all current Chancellors can equal the vote of one Marshal. 
+Chancellors are not considered full Officers for voting purposes, however a majority vote of current Chancellors can equal the vote of one Officer. 
 
 Vanguard
 --------
 
 Vanguard of the Death March is given to the one who has the most seminal involvement in the formation of the Death March.
 
-Corporal of Banquets
---------------------
-The Corporal of Banquets is the title given to the person who attends the most post-march dinners without actually participating in the march. This is the only know way to attain a title without ever actually marching and thus is not generally considered an officer.
+Teams
+=====
+In order to increase group spirit in an ever growing event, teams are a group of Marchers who share a common goal of finishing the Death March together.
+
+Team Formation
+--------------
+Anyone who can provide transportation at the end of a March from the Palisades back to the start is eligible to be a team captain. Each team member must swear or affirm loyalty to the team in a manner decided by the team captain.
+
+Team Size
+---------
+A team may only be as big as the transportation the captain can provide. If more than one team captain wants to form a common team, they must choose amongst themselves who will be the captain. Anyone who drives but does not become a captain will be known as a ranger.
+
+Team Flair
+----------
+All teams may choose a name, team colors, and a mascot.
+
+Team Completion
+---------------
+A team completes the March when the last member of the team touches the ocean. The first complete team to finish the March will be responsible for assigning a theme and/or subtitle to the next year's March. A team will only be recognized for the year if all the team members make it back from the ocean with the team captain or team rangers.
+
+Lack of a Team
+--------------
+Any one who voluntarily Marches without team affiliation takes full personal responsibility for getting back to from the ocean on their own.
 
 The Punishments
 ===============
