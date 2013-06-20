@@ -252,6 +252,6 @@ Current Achievements
 + Speed of Light - Complete the Death March in under 4 hours.
 + Somnambulist - Get no sleep the night previous to the Death March.
 + Metrosexual - Take public transit to and from the Death March.
-+ Fancy pants - Wear formal attire for the entirety of the March.
++ Fancy Pants - Wear formal attire for the entirety of the March.
 + Triathlete - Ride a bicycle to the beginning of the Death March, finish the Death March, and then dunk yourself in the Ocean at the end.
 + Lone Wolf - Complete the Death March without a team.
