@@ -13,7 +13,7 @@ Bylaws
 
 The bylaws are the official rules of the Death March.
 
-Any change to the bylaws must be voted upon and approved by a triumvirate of Officers.
+Any change to the bylaws must be voted upon and radified with high fives by a triumvirate of Officers.
 
 Term
 ====
@@ -25,7 +25,7 @@ Each Death March begins with a speech from the Grand Marshal and ends when every
 Date
 ====
 
-The March must be held in the summer. No March shall ever occur in another season.
+The March must be held in the summer. The Death March shall never occur in another season.
 
 The Grand Marshal is responsible for coordinating with others to plan a date. This date must be agreed upon by a triumvirate of ranking members of the Death March.
 
@@ -33,10 +33,14 @@ If by August 20th, the Grand Marshal has not solidified a date for the Death Mar
 
 If the March is not held by the Autumnal Equinox, the line of succession is broken and these bylaws will cease to be in force. A new charter must be drawn after that.
 
+Once the date of the Death March has been determined, the current winning team must choose a theme within one month. Failure to do so will result in the privilege of choosing the theme passing to the team of the Premiere. The Premiere’s team then has one month to pick a theme. Failure to do so will result in the privilege passing to the Grand Marshal. If the Death March occurs before any of these deadlines, the day before the Death March shall become the deadline.
+
+The First to the Sea Challenge only begins once the Grand Marshal announces it at Eagle Rock.
+
 Rank
 ====
 
-Rank is determined by number of rank points a person holds.
+Rank is determined by number of rank points a person holds. Points are calculated at the Banquet.
 
 Completed Official Marches
 --------------------------
@@ -47,7 +51,7 @@ Three (3) rank points are earned for any completed march.
 Absentee Marches
 ----------------
 
-Absentee Marches are marches undertaken to make up for not being able to attend the March. They must be at least as long as the Death March in miles and must occur during the summer. Absentee Marches are based on trust, but must be approved by the Grand Marshal. Approved Absentee Marches are worth two (2) rank points, restore one to the list of ranking member, and confer any titles earned for Punishments undertaken on the Absentee March. Anyone who attends an Absentee March for support cannot be stripped of titles for not performing punishments earned on an official March, but it is considered bad form to do so.
+Absentee Marches are marches undertaken to make up for not being able to attend the March. They must be at least as long as the Death March in miles. Absentee Marches are based on trust, but must be approved by the Grand Marshal. Approved Absentee Marches are worth two (2) rank points, restore one to the list of ranking member, and confer any titles earned for Punishments undertaken on the Absentee March. Anyone who attends an Absentee March for support cannot be stripped of titles for not performing punishments earned on an official March, but it is considered bad form to do so.
 
 Members who earned rank points on the Official March for the year cannot earn any more points. Members who failed to complete the Official March may go on an Absentee March that year to receive two (2) points for the year.
 
@@ -89,12 +93,12 @@ Rank points decay exponentially at a rate of -0.25. Decay calculations are calcu
 
 Officers
 ========
-Officers are the leaders of the Death March. No one person can hold more than one officership, with the exception of Vanguard.
+Officers are the leaders of the Death March. No one person can hold more than one officership, with the exception of Vanguard.  One may decline any officership. Marshal positions are then passed on to the next eligible ranking member until the next point evaluation. If the Captain of the largest team declines the Premiere position, that team must elect another team member to be the Premiere. Once declined, a position may not be regained until the next March.
 
 Grand Marshal
 -------------
 
-The Grand Marshal of the Death March is the leader of the Death March. He has the final say into all matters March related that are not outlined in the bylaws. He is also responsible for clarifying the laws. This title is given to whoever may have the highest rank.
+The Grand Marshal of the Death March is the leader of the Death March. The Grand Marshal has the final say into all matters March related that are not outlined in the bylaws. The Grand Marshal is also responsible for clarifying the laws. However, the Grand Marshal cannot change existing Bylaws or create new Bylaws without due process. 
 
 Lieutenant Marshal
 ------------------
@@ -104,14 +108,14 @@ Lieutenant Marshal is responsible for all the mundane details like recording the
 Vice Lieutenant Marshal
 -----------------------
 
-The Vice Lieutenant Marshal is the manager of the Punishments. They are responsible for the planning and implementing of Punishments. This title is given to whoever may have the third highest rank.
+The Vice Lieutenant Marshal is the manager of the Punishments. They are responsible for the planning and implemention of Punishments. This title is given to whoever may have the third highest rank.
 
-Premier
--------
+Premiere
+--------
 
-The Premier is the leader of the largest team to finish the Death March. If more than one team is tied for most amount of people, the leaders of those teams will agree to a competitive game and the winner of said game will become the Premier.
+The Premiere is the leader of the largest team to finish the Death March. If more than one team is tied for most amount of people, the leaders of those teams will agree to a competitive game and the winner of said game will become the Premiere.
 
-The Premier has full voting and nominating privileges.
+The Premiere has full voting and nominating privileges.
 
 Chancellors
 -----------
@@ -127,7 +131,7 @@ Vanguard of the Death March is given to the one who has the most seminal involve
 
 Teams
 =====
-In order to increase group spirit in an ever growing event, teams are a group of Marchers who share a common goal of finishing the Death March together.
+In order to increase group spirit in an ever growing event, teams are a group of Marchers who share a common goal of finishing the Death March together. 
 
 Team Formation
 --------------
@@ -135,7 +139,7 @@ Anyone who can provide transportation at the end of a March from the Palisades b
 
 Team Size
 ---------
-A team may only be as big as the transportation the captain can provide. If more than one team captain wants to form a common team, they must choose amongst themselves who will be the captain. Anyone who drives but does not become a captain will be known as a ranger.
+A team may only be as big as the transportation the captain can provide. If more than one team captain wants to form a common team, they must choose amongst themselves who will be the captain. Anyone who drives but does not become a captain will be known as a ranger. A team must consist of 2 or more people.
 
 Team Flair
 ----------
@@ -159,7 +163,7 @@ Personal Punishments
 
 Members may elect to take on personal punishments to show their devotion to the cause.
 
-A single personal punishment will be approved by the Marshals at the end of a march. A second personal punishment will be approved by the members at the end of the March. Upon approval, the approved personal punishment becomes an Official Punishment for the next year. Those who participated in the personal punishment will be bestowed with a title decided by the remaining members.
+A single personal punishment will be approved by the Marshals at the end of a march. A second personal punishment will be approved by the members at the end of the March. Upon approval, the approved personal punishment becomes an Official Punishment for the next year. The title of the punishment will then be put up for debate. If a triumvirate of Officers is unable to agree upon a title, the title originally used when a personal punishment will remain.
 
 Alcohol Consumption Punishment
 ------------------------------
@@ -253,3 +257,42 @@ Anyone who consumes vegetarian chili in lieu of the Tommy's Chili Punishment and
 Noisemaking Punishment
 ----------------------
 Anyone who brings a noise maker approved by the Grand Marshal and uses it often for the duration of the March shall earn the **Troubadour** title.
+
+Marching in Drag Punishment
+---------------------------
+Any man who dresses in clothing traditionally worn by women, or any woman who dresses in clothing traditionally worn by men and sports facial hair, for the duration of the March shall earn a title with the word **drag** in it.
+
+The Achievements
+================
+
+Achievements can be completed for fun. They serve no purpose other than to provide bragging rights for having completed Achievements. An Achievement is a minor feat, defined henceforth in the Bylaws, that is completed by a Marcher during the course of any annual main-event Death March.
+
+Achievements are set apart from Punishments in that no title, prize, office, or power are bestowed upon having completed any or all Achievements; they are only made for fun and bragging rights. While Punishments must be completed annually, any given Achievement must only be completed once for any given Marcher to permanently earn credit for it.
+
+A given Achievement must have been published in the Bylaws by the start of a March for anyone to earn credit for having completed it on that March. This is to prevent new Achievements from being developed mid-hike, thus potentially preventing some Marchers from knowing about and thus completing it, and also to prevent Marchers from earning Achievements for having unwittingly completed a task on a previous year that there was no Achievement for at that time.
+
+Since there is nothing to be gained from completing Achievements, an unlimited number of them can be published to the Bylaws each year. That being said, note that Achievements, being published into the Bylaws, must be Rad-ified to be valid.
+
+Current Achievements
+--------------------
+
++ Gracious Bounty - Share food or drinks with at least 6 people.
++ Great Bounty - Share food or drinks with at least 15 people.
++ Ridiculous Bounty - Share food or drinks with everyone on the March.  
++ Rock Star - Perform a musical piece of at least 1 minute length at Opening Ceremonies or Eagle Rock.
++ Greenfriend - Pick up every single piece of trash you see over the course of the Death March. Leave no trash of your own behind.
++ Alcoholics Unanimous - Drink five servings of alcohol during the course of the March.
++ Photogenic - Have your picture taken standing on top of the highest point of Eagle Rock.
++ Patriot - Have your picture taken at the Altar of Freedom.
++ MacGyver - Fashion some sort of device to assist a fellow Marcher in their time of need.
++ Early to Rise - Walk from the Sea to the top of Reseda before the Opening Ceremonies on the day of the March.
++ Absolute Twit - Tweet your location at least 10 times during the March.
++ Head in the Clouds - Visit the Parker Mesa Overlook.
++ Speedster - Complete the Death March in under 7 hours.
++ SpeedSTAR - Complete the Death March in under 6 hours.
++ Speed Demon - Complete the Death March in under 5 hours.
++ Champion of the Sea - Finish the Death March first.
++ Waterlogged - Completely submerge yourself in the ocean upon completion of the Death March.
++ Voice of the People - Propose a bylaw that is radified by the end of the March. May not be earned by Officers.
++ Paparazzi - Take 50 pictures of the Officers on the March.
++ Are you guys a club or something? - Dress to the theme of the March
