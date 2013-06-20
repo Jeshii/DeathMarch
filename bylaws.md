@@ -61,7 +61,7 @@ Any ties in rank points can then be further determined by the following criteria
 Latest Member Penalty
 ---------------------
 
-The last person to arrive at the meeting place or to join the march 30 minutes after the official starting time will be penalized one (1) rank point at the end of the march, therefore earning only three (3) points for a completed march. If they also do not finish the march, they only earn one (1) point for the march.
+The last person to arrive at the meeting place or to join the march 30 minutes after the official starting time will be penalized one (1) rank point, therefore earning only three (3) points for a completed March or only one (1) point if they do not complete the March.
 
 Catch-up Marches
 ----------------
@@ -113,7 +113,7 @@ Personal Punishments
 
 Members may elect to take on personal punishments to show their devotion to the cause.
 
-A single personal Punishment will be approved by the Marshals at the end of a march. A second personal punishment will be approved by the Officers at the end of a march. Upon approval, the approved personal punishment becomes an official punishment for the next year. Those who participated in the personal punishment will be bestowed with a title decided by the remaining Mob.
+A single personal punishment will be approved by the Marshals at the end of a march. A second personal punishment will be approved by the members at the end of the March. Upon approval, the approved personal punishment becomes an Official Punishment for the next year. Those who participated in the personal punishment will be bestowed with a title decided by the remaining members.
 
 Alcohol Consumption Punishment
 ------------------------------
