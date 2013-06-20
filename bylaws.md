@@ -56,22 +56,25 @@ One is removed from the ranking members list if they miss a march.
 Ties
 ----
 
-Any ties in rank points can then be further determined by the following criteria. Any one with more total complete official marches out ranks someone who has less. Recent consecutive complete official marches are used to break any further ties. If any ties remain, rock-paper-scissors is used to determine appropriate ranking.
+Any ties in rank points can then be further determined by the following criteria:
+1. Anyone with more Total Complete Official Marches out ranks someone who has less.
+2. Recent Consecutive Complete Official Marches are used to break any further ties.
+3. If any ties remain, rock-paper-scissors is used to determine appropriate ranking.
 
 Latest Member Penalty
 ---------------------
 
-The last person to arrive at the meeting place or to join the march 30 minutes after the official starting time will be penalized one (1) rank point, therefore earning only three (3) points for a completed March or only one (1) point if they do not complete the March.
+The last person to join the march 30 minutes after the official starting time will be penalized one (1) rank point, therefore earning only three (3) points for a completed March or only one (1) point if they do not complete the March.
 
 Catch-up Marches
 ----------------
 
-If someone arrives late to the Death March, but then catches-up with any of the initial marching members, this person is fully eligible to finish the march as if they had begun it with the rest of the members as long as they finish before the last finishing member touches the Ocean. They will, however, still be subject to the latest member penalty.
+If someone arrives late to the March, but catches-up with any of the initial marching members before the last one touches the Ocean, this person is fully eligible to finish the march as if they had begun it with the rest of the members. They may, however, still be subject to the latest member penalty.
 
 Absentee Marches
 ----------------
 
-Absentee Marches are marches undertaken to make up for not being able to attend a Death March. They must be at least as long as the Death March in miles and must occur during the summer. Absentee Marches are based on trust, but must be approved by the Grand Marshal. Approved Absentee Marches are worth two (2) rank points, restore one to the list of ranking officers, and confer any titles earned for Punishments undertaken on the Absentee March. Anyone who attends an Absentee March for support cannot be stripped of titles for not performing punishments earned on an official March, but it is considered bad form to do so.
+Absentee Marches are marches undertaken to make up for not being able to attend a Death March. They must be at least as long as the Death March in miles and must occur during the summer. Absentee Marches are based on trust, but must be approved by the Grand Marshal. Approved Absentee Marches are worth two (2) rank points, restore one to the list of ranking members, and confer any titles earned for Punishments undertaken on the Absentee March. Anyone who attends an Absentee March for support cannot be stripped of titles for not performing punishments earned on an official March, but it is considered bad form to do so.
 
 Officers who earned four (4) rank points for the year cannot earn any more points. Officers who did not complete the Official March may go on an Absentee March that year to receive one (1) extra point for a total of three (3) for the year. Officers who earned three (3) rank points for the year due to the Latest Member Penalty may go on an Absentee March that year to reveive one (1) extra point for a total of four (4) for the year.
 
@@ -93,15 +96,21 @@ Vice Lieutenant Marshal
 
 The Vice Lieutenant Marshal is the manager of the Punishments. They are responsible for the planning and implementing of Punishments. This title is given to whoever may have the third highest rank.
 
-Prime Chancellor
-----------------
+Chancellors
+-----------
 
-Lead helper and supporter of the Death March. This title is granted to the person who helps out the most, but does not have enough rank to attain one of the first three titles.
+Chancellors are the leaders of the various support corps of the Death March. A Chancellor can be nominated by any Marshal. Upon confirmation by the other two Marshals, the Chancellor gains a title such as "Chancellor of Transportation" or "Chancellor of Banquets."They will hold this office until they resign, miss a march, or are stripped of their title by a triumvirate of officers.
+
+A unanimous vote of all current Chancellors can equal the vote of one Marshal. 
 
 Vanguard
 --------
 
 Vanguard of the Death March is given to the one who has the most seminal involvement in the formation of the Death March.
+
+Corporal of Banquets
+--------------------
+The Corporal of Banquets is the title given to the person who attends the most post-march dinners without actually participating in the march. This is the only know way to attain a title without ever actually marching and thus is not generally considered an officer.
 
 The Punishments
 ===============
@@ -130,19 +139,69 @@ Squire (or other appropriate diminutive title) is applied to people who are deem
 Labours Punishment
 ------------------
 
-At the beginning of the March, all participants must draw five cards from an unmodified deck of standard playing cards. The values of these cards must be recorded in the order they are drawn. Face cards count for ten, and aces count for one or eleven, based on that person's preference. The values of these cards are used to determine how many Labours (repetitions of a given exercise, e.g. push-ups, sit-ups, lunges, etc.) must be Endured (performed) under certain circumstances (to be clarified at great length below). For each stop (scheduled or unscheduled, see below for details) at which Labours are to be Endured, a different Labour may be chosen by the person who is required to Endure, but the same Labor must be Endured for the duration of the stop. For example, Ace may chose to Endure push-ups at the Hub and sit-ups at Musch Camp, but he may not Endure half push-ups and half sit-ups at any one stop.
+At the beginning of the March, all participants must draw five (5) cards from an unmodified deck of standard playing cards held by the Vice Lieutenant Marshal. The values of these cards must be recorded in the order they are drawn. Face cards count for ten (10), and aces count for one (1) or eleven (11), depending on participant preference stated when cards are first drawn. One must choose aces as eleven (11) to be considered for Overlord Status (*see below*). Cards are returned to the deck after being drawn and recorded. The total value of these cards is used to determine how many Labours (repetitions of a given exercise) must be Endured (*i.e.* performed) under the following circumstances.
 
-If at any time, any participant takes an unscheduled rest at a location along the route of the hike not preordained by the Officers of the Death March as an official, regularly scheduled rest stop, he or she must Endure Labours in order to receive the title of **Redeemer**. The number of Labours to be Endured is determined by the value of that participant's cards. However, only the value of the first card must be reached in order to achieve the title of Redeemer. For each card whose value is reached, a star is applied to that participant's title. If at any scheduled or unscheduled stop a participant with a title does not Endure at least his first card's worth of Labours, he or she is immediately stripped of his or her title.
+###3S
 
-**For example:** Ace draws a **5**, a **7**, a **9**, a **Jack** (10) and a **King** (10). If he makes an unscheduled stop, in order to achieve the title of Redeemer, he only needs to perform **five** repetitions, and he will receive one star. If he performs **twelve repetitions at a single unscheduled stop** (five plus seven), he earns two stars because he has Endured a number of Labours equal to the value of the **first two cards** in his queue. In order to achieve the maximum five-star rank, he must Endure **41 Labours**, the value of all of his entire queue, **all at a single stop** (stars are not cumulative, you can only earn a number of stars equal to the maximum number of cards whose value you have achieved at a single stop). At each successive stop, he must start over again from the beginning of his queue as it is recorded. Furthermore, if he does not complete the entire value of a card, he does not receive that card's star. So if he Endures only ten Labours, he only earns one star. On the bright side, once a participant has earned stars, he or she must only Endure his or her first card's value in Labours at each successive stop in order to *maintain* their current rank and title.
+Credit for Enduring Labours is handled through the 3S (**S**tars and **S**tatus **S**ystem). For each card value that is satisfied through Labours, a participant earns one (1) star. Earning those stars through various conditions will earn the participant a Status, such as Redeemer, Saint, or Overlord.
 
-The title of Redeemer is also given to anyone who has been stripped of his or her title and has regained it on the same hike, even if he or she was previously a Saint.
+###Stop Types
 
-If at any time, any participant stops to comfort or assist another participant who is making an unscheduled rest at a location along the route of the hike not preordained by the Officers of the Death March as an official, regularly scheduled rest stop, he or she must Endure Labours in order to receive the title of **Saint**. If this would-be Saint fails to Endure a number of Labours equal to at least the value of his or her first card, he or she must Endure Labours at the next regularly scheduled rest stop in order to receive a title, which in this case would be Redeemer. Additionally, any participant who makes no unscheduled stops but chooses to voluntarily Endure Labours at **every** regularly scheduled rest stop earns the title of Saint.
+There are three types of stops:
 
-If at any unscheduled stop a participant with a title does not Endure at least his first card's worth of Labours, he or she is immediately stripped of his or her title. Additionally, any Saint who has earned his or her title at an unscheduled rest stop must Endure Labours at each successive regularly scheduled stop as well, but he or she may be demoted or stripped entirely of the title if he or she fails to Endure Labours at any future scheduled or unscheduled stop.
+1.    A Scheduled Stop is an officially sanctioned (by the Grand Marshal) rest stop for the March, such as Musch Camp or Eagle Rock.
 
-Once the title of Saint has been stripped, it cannot be regained until the next Death March, but it can be replaced with the Redeemer title on that same hike if Labours are Endured after the Saint title has been stripped.
+2.    An Unscheduled Stop is an unsanctioned stop for the purposes of resting.
+
+3.    A Mercy Stop is a stop made by one participant to accompany one or more participants who are themselves making an Unscheduled Stop, or to wait for one or more participants who are lagging behind.
+
+4.    A Spiritual Stop is a stop made by a group of participants who are stopping together for the purposes of basking in some sort of Wonder.
+
+At **every** stop, all participants involved **must** Maintain (*see below*) in order to not lose Stars and Status.
+
+###Labours
+
+Labours are repetitions of a given exercise, such as push-ups, sit-ups, lunges, etc., that are to be Endured at all stops. Any kind of Labour may be chosen at any given stop, but only that single type may be Endured at the stop. For instance, one may not do a combination of jumping jacks and push-ups at a single stop – just one or the other.
+
+###Maintaining
+
+The action of Maintaining refers to the retaining of Stars and Status. On all stops, one must Endure at least their first card's value of Labours in order to not lose one's Stars and Status.
+
+###Stars
+
+Credit for Labours is expressed through Stars is earned based on how many card values are satisfied by the number of repetitions of the Labour, taken in the order of the cards drawn. For instance, Ace draws a seven (7), nine (9), five (5), Jack (10), and King (10). In order to earn Five Stars, he must Endure 7 + 9 + 5 + 10 + 10 = 41 Labours. If he only Endures sixteen (16) Labours, he only earns two (2) Stars. Partial stars do not count, so enduring 20 Labours will still only earn two (2) Stars. Maintaining would be equivalent to enduring the first card, or 7 Labours.
+
+###Increasing Star Level
+
+In order to increase one's level of Stars to get closer or equal to their current maximum, a participant needs to Endure Labours from scratch at a Scheduled Stop to satisfy the amount of Stars necessary. For instance, using Ace's example cards above, say he only Endured sixteen (16) Labours and thus earned two (2) Stars out of his maximum of five (5). In order to increase to three (3) Stars, he would have to Endure twenty-one (21) Labours at once.
+
+###Increasing Maximum Star Level
+
+Any participant may attempt to increase their maximum level of Stars by Enduring Labours equal to all of their current cards. Note that this must be done in the presence of the Vice Lieutenant Marshal. Once they Endure these Labours, they are allowed to draw up to five (5) more cards from the deck. At that point, the participant must Endure Labours equal to **all** of those extra cards immediately or they will lose all Stars and Status. If all the Labours are Endured, the participant's Stars and maximum level of Stars is increased by the number of extra cards that were drawn. Note that this new maximum is what must be met from that point on if the participant wishes to further increase their maximum level of Stars. A participant may only ask for a maximum of five (5) extra cards per stop. Additionally, if one requests this of the Vice Lieutenant Marshal at any point other than a Scheduled Stop, it still counts as an Unscheduled Stop for the requester. This stop also counts as a Mercy stop for the Vice Lieutenant Marshal with automatic Maintaining requiring no Labours to be Endured other than supervising the attempt.
+
+###Status
+
+Statuses accompany Stars earned. If at any kind of Stop a participant does not Maintain, they lose their Stars and Status.
+
+The Status of **Redeemer** may be attained by enduring Labours from scratch such that they earn at least one (1) Star and Maintain throughout the rest of the March, either:
+
+1.    At an Unscheduled Stop
+2.    After losing Stars and Status
+
+The Status of **Saint** may be attained by two different ways:
+
+1.    A participant must Endure or Maintain during a Mercy Stop
+2.    A participant must Endure or Maintain at every Scheduled Stop throughout the March
+
+In either case, a failure to Maintain at any stop will cause the loss of the Saint Status. Also, any Saint who makes an Unscheduled Stop will lose the Saint Status, whether they Maintain or not. Upon such a loss, the Saint Status may not be earned again for the current year's March (Redeemer Status can be earned, however).
+
+The Status of **Overlord** may be attained when both of the following conditions are met:
+
+1.    During a Scheduled Stop, the participant Endures Labours equal to all of his or her current cards
+2.    At least one cards in his or her queue is an ace
+3.    All aces present in their cards are valued at eleven (11)
+
+The Status of Overlord overrides the Status of Saint once attained, and like the Status of Saint, requires the participant to Maintain and not make Unscheduled Stops in order to keep the Status. Upon loss of the Status of Overlord, it may not be earned again for the current year's March (Redeemer Status can be earned. Saint Status may still be earned if not yet disqualified by making any Unscheduled Stops and not Maintaining, however).
 
 Flagbearing Punishment
 ----------------------
@@ -153,3 +212,7 @@ Vegetarianism Punishment
 ------------------------
 
 Anyone who consumes vegetarian chili in lieu of the Tommy's Chili Punishment and does not eat meat for the entirety of the March shall earn membership into the Fraternity of an animal of their choice. This animal must be an animal that is normally bred for human consumption. The word used in the title for that animal should be a noble word rather than a common word. For example, rather than "pig" one could use "boar" or "Sus Scrofa." 
+
+Noisemaking Punishment
+----------------------
+Anyone who brings a noise maker approved by the Grand Marshal and uses it often for the duration of the March shall earn the **Troubadour** title.
