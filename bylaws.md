@@ -143,6 +143,11 @@ Vanguard
 
 Vanguard of the Death March is given to the one who has the most seminal involvement in the formation of the Death March.
 
+MaST
+----
+
+The Marcher Support Team (MaST) is a group of non-marching members who provide some sort of material support to the March (driving, setting up the banquet, creating schwag, timekeeping, etc.) In return for their service, they earn one (1) rank point. They are allowed to hold Officerships and Rank. All members of the MaST must be nominated and then approved by a triumvirate to earn this one (1) point. 
+
 Teams
 =====
 In order to increase group spirit in an ever growing event, teams are a group of Marchers who share a common goal of finishing the Death March together. 
@@ -247,4 +252,11 @@ Current Achievements
 + Are you guys a club or something? - Dress to the theme of the March
 + Lose Your Keys? - Catch up to the March after starting late.
 + Treasure Hunter - Find a geocache during the March.
-+ Paleontologist - Take your picture with the stromatolites. 
++ Paleontologist - Take your picture with the stromatolites.
++ Ball and Chain - Bring your significant other to the Death March.
++ Indelible - Get a Death March related tattoo.
++ Michael Phelps - Earn ten (10) or more achievements in a single March.
++ McConaughey - Perform a Death March start to finish without a shirt. Women may cover up as is appropriate.
++ Capital Zero - Finish your first Death March.
++ Speed of Light - Complete the Death March in under 4 hours.
++ Somnambulist - Get no sleep the night previous to the Death March.
