@@ -255,3 +255,4 @@ Current Achievements
 + Fancy Pants - Wear formal attire for the entirety of the March.
 + Triathlete - Ride a bicycle to the beginning of the Death March, finish the Death March, and then dunk yourself in the Ocean at the end.
 + Lone Wolf - Complete the Death March without a team.
++ How I Met Your Mother - Bring your mother on the Death March.
