@@ -10,27 +10,27 @@ Bylaws
 ======
 The bylaws are the official rules of the Death March. 
 
-Any change to the bylaws must be voted upon and radified with high fives by a triumvirate of Officers.
+Any change to the bylaws must be voted upon and **radified** with high fives or rapturous tapping upon a table in a room that has beer taps by a triumvirate of Officers.
 
-Bylaws are given a timestamp when radified and expire after 3 years. All current bylaws will be given a timestamp of August 20th, 2011.
+Bylaws are given a timestamp when radified and expire after 3 years.
 
 Term
 ====
 The Death March will be held yearly until someone actually dies on the March.
 
-Each Death March begins with a speech from the Grand Marshal and ends when everyone touches the ocean.
+Each Death March begins with a speech from the Grand Marshal, praise be unto him, and ends at sunset. 
 
 Date
 ====
-The March must be held in the summer. The Death March shall never occur in another season.
+The March must be held in the summer.
 
-The Grand Marshal is responsible for coordinating with others to plan a date. This date must be agreed upon by a triumvirate of Officers.
+The Grand Marshal, praise be unto him, is responsible for coordinating with others to plan a date. This date must be agreed upon by a triumvirate of Officers. 
 
-If by the Summer Solstice, the Grand Marshal has not solidified a date for the Death March, the next ranking member of the March has 24 hours to schedule and inform the public of the date as acting Grand Marshal. Acting Grand Marshal has all the rights and responsibilities of the Grand Marshal until the next point evaluation. If this member does not plan and inform within 24 hours, they lose this opportunity. This process continues every 24 hours with the next ranking member as acting Grand Marshal until the Autumnal Equinox, at which the line of succession is broken and these bylaws will cease to be in force.
+If by the Summer Solstice, the Grand Marshal, praise be unto him, has not solidified a date for the Death March, he has 24 hours to schedule and inform the public without a triumvirate.  After that time, the next ranking member of the March has 24 hours to schedule and inform the public of the date as acting Grand Marshal, praise be unto him.  Acting Grand Marshal, praise be unto him, has all the rights and responsibilities of the Grand Marshal, praise be unto him, until the next rank calculation.  If this member does not plan and inform within 24 hours, they lose this opportunity.  This process continues every 24 hours with the next ranking member as acting Grand Marshal, praise be unto him, until the Autumnal Equinox, at which the line of succession is broken and these bylaws will cease to be in force.
 
-Once the date of the Death March has been determined, the current winning team must choose a theme within one month. Failure to do so will result in the privilege of choosing the theme passing to the team of the Premiere. The Premiere’s team then has one month to pick a theme. Failure to do so will result in the privilege passing to the Grand Marshal. If the Death March occurs before any of these deadlines, the day before the Death March shall become the deadline.
+The current winning team must choose a theme within one month of the Death March.  Failure to do so will result in the privilege of choosing the theme passing to the team of the Premiere.  The Premiere’s team then has one month to pick a theme.  Failure to do so will result in the privilege passing to the Grand Marshal, praise be unto him.
 
-The First to the Sea Challenge only begins once the Grand Marshal announces it at Eagle Rock.
+The First to the Sea Challenge only begins once the Grand Marshal, praise be unto him, announces it at Eagle Rock. 
 
 Rank
 ====
@@ -38,7 +38,7 @@ Rank is determined by number of rank points a person holds. Points are calculate
 
 Completed Official Marches
 --------------------------
-Three (3) rank points are earned for any completed march.
+Three (3) rank points are earned for any completed Death March.
 
 Incomplete Marches
 ------------------
@@ -50,37 +50,31 @@ One is removed from the ranking members list and does not earn any points for th
 
 Ties
 ----
-Any ties in rank points can then be further determined by the following criteria:
-
-1. Anyone who is late to a March immediately loses any ties for the year
-2. Anyone with more Total Complete Official Marches wins any further ties
-3. More Recent Consecutive Complete Official Marches are used to break any further ties
-4. If any ties remain, rock-paper-scissors is used to determine appropriate ranking
-
+For any ties in rank points, overall rank shall be determined by rock-paper-scissors. 
 
 Catch-up Marches
 ----------------
-If someone arrives late to the March, but catches-up with any of the initial marching members before the last one touches the Ocean, this person is fully eligible to finish the march as if they had begun it with the rest of the members. They are, however, still subject to losing ties due to being late.
+If someone arrives late to the March, but catches-up with any of the initial marching members before the last one touches the Ocean, this person is fully eligible to finish the march as if they had begun it with the rest of the members.
 
 Drivers
 -------
 Anyone who helps shuttle people between the Palisades and Reseda is entitled to one (1) extra rank point for their dedication to the cause.
 
-Absentee Marches
-----------------
-Absentee Marches are marches undertaken to make up for not being able to attend the most recent official Death March. They must be at least as long as the Death March in miles and must occur during the summer. Absentee Marches are based on trust, but must be approved by the Grand Marshal. Approved Absentee Marches are worth two (2) rank points, restore one to the list of ranking members, and confer any titles earned for Punishments undertaken on the Absentee March. Anyone who attends an Absentee March for support cannot be stripped of titles for not performing punishments earned on an official March, but it is considered bad form to do so.
-
-Members who earned rank points on the Official March for the year cannot earn any more points for merely attending an absentee march. You may only earn points from an Absentee March if haven't already earned points from any participation on the previous march, except for members who failed to complete the Official March who may go on an Absentee March that year to receive two (2) points for marching.
-
-One who has never been on a Death March can attend as an observer, however this March does not confer any points or ranks.
-
 Seasonal Marches
 ----------------
-In an effort to keep interest in the Death March up and to recruit new members, marches shall be held every season. As the Grand Marshal is generally in charge of Summer’s Death March, each full Officer must organize a March for each other season. Which officer is in charge of which season shall be determined by the Grand Marshal at the end of the Banquet.
+In an effort to keep interest in the Death March up and to recruit new members, marches shall be held every season.  As the Grand Marshal, praise be unto him, is generally in charge of Summer’s Death March, each full Officer must organize a March for each other season.  Which officer is in charge of which season shall be determined by the Grand Marshal, praise be unto him, at the end of the Banquet. 
 
-This seasonal march must be held in the assigned season. All seasonal marches will count as absentee marches. The Officer in Charge is the last word for everything involved with this seasonal march. The Officer in Charge is given one (1) extra rank point for every five (5) marchers who complete this particular seasonal march to distribute as they please.
+This seasonal march must be held in the assigned season.  All seasonal marches will count as absentee marches, regardless of length. The Officer in Charge is the last word for everything involved with this seasonal march. The Officer in Charge is given one (1) extra rank point for every five (5) marchers who complete this particular seasonal march to distribute as they please.  The Officer in Charge gains one (1) extra rank point as long as at least one person shows up and there is photographic evidence. 
 
-Any season that goes by without an official seasonal march will cause the Officer in charge of said season to lose both one (1) rank point and eligibility to hold Office the next year.
+Any season that goes by without an official seasonal march will cause the Officer in charge of said season loses eligibility to hold Office the next year. 
+
+Absentee Marches
+----------------
+Absentee Marches are marches undertaken to make up for not being able to attend the most recent official Death March. They must be at least as long as the Death March in miles.  Absentee Marches are based on trust, but must be approved by the Grand Marshal, praise be unto him.  Approved Absentee Marches are worth two (2) rank points, restore one to the list of ranking members, and confer any titles earned for Punishments undertaken on the Absentee March.  Anyone who attends an Absentee March for support cannot be stripped of titles for not performing punishments earned on an official March, but it is considered bad form to do so. 
+
+Members who earned rank points on the Official March for the year cannot earn any more points for merely attending an absentee march. You may only earn points from an Absentee March if haven't already earned points from any participation on the previous march, except for members who failed to complete the Official March who may go on an Absentee March that year to receive two (2) points for marching. 
+
+One who has never been on a Death March can attend as an observer, however this March does not confer any points or ranks. 
 
 Point Decay
 -----------
@@ -88,11 +82,11 @@ Rank points decay exponentially at a rate of -0.25. Decay calculations are calcu
 
 Officers
 ========
-Officers are the leaders of the Death March. No one person can hold more than one officership, with the exception of Vanguard.  One may decline any officership. Marshal positions are then passed on to the next eligible ranking member until the next point evaluation. If the Captain of the largest team declines the Premiere position, that team must elect another team member to be the Premiere. Once declined, a position may not be regained until the next March.
+Officers are the leaders of the Death March. No one person can hold more than one officership. One may decline any officership. Marshal positions are then passed on to the next eligible ranking member until the next point evaluation. If the Captain of the largest team declines the Premiere position, that team must elect another team member to be the Premiere. Once declined, a position may not be regained until the next March.
 
 Grand Marshal
 -------------
-The Grand Marshal of the Death March is the leader of the Death March. The Grand Marshal has the final say into all matters March related that are not outlined in the bylaws. The Grand Marshal is also responsible for clarifying the Bylaws. However, the Grand Marshal cannot change existing Bylaws or create new Bylaws without due process. 
+The Grand Marshal of the Death March, praise be unto him, is the leader of the Death March.  The Grand Marshal, praise be unto him, has the final say into all matters March related that are not outlined in the bylaws. The Grand Marshal, praise be unto him, is also responsible for clarifying the Bylaws. However, the Grand Marshal, praise be unto him, cannot change existing Bylaws or create new Bylaws without due process.
 
 This title is given to whoever may have the highest rank.
 
@@ -122,13 +116,9 @@ Chancellors are not considered full Officers for voting purposes, however a majo
 
 Champion of the Sea
 -------------------
-Champion of the Sea is the first person to travel by foot and touch the ocean after the Grand Marshal has given the starting signal at Eagle Rock. Upon touching the ocean, they are immediately made a Chancellor with voting and nominating rights as such. Champion of the Sea earns one (1) extra rank point for the year.
+Champion of the Sea is the first person to travel only by foot and touch the ocean after the Grand Marshal, praise be unto him, has given the starting signal at Eagle Rock. Upon touching the ocean, they are immediately made a Chancellor with voting and nominating rights as such.  Champion of the Sea earns one (1) extra rank point for the year.
 
-Vanguard
---------
-Vanguard of the Death March is given to the one who has the most seminal involvement in the formation of the Death March.
-
-This title is ceremonial and does not confer voting or nominating privileges.
+In honor of the Papal History theme, the official title of the Champion of the Sea shall be “Bishop of Malibu, Vicar of Poseidon, Successor of the Champions of the Sea, Supreme Pontiff of the Universal March, Primate of Los Liones, Archbishop and Metropolitan of the Los Angeles Province, Sovereign of the Californian State, Servant of the servants of the Sea” for 2014 only. 
 
 MaST
 ----
@@ -156,7 +146,7 @@ All teams may choose a name, team colors, motto, and a mascot.
 
 Team Completion
 ---------------
-A team completes the March when the last member of the team touches the ocean. The first complete team to finish the March will be responsible for assigning a theme and/or subtitle to the next year's March. A team will only be recognized for the year if all the team members make it back from the ocean with the team captain or team rangers.
+A team completes the March when the last member of the team touches the ocean.  The first complete team to finish the March will be responsible for assigning a theme and/or subtitle to the next year's March.  A team will only be recognized for the year if no members are left stranded at any point.
 
 Lack of a Team
 --------------
@@ -176,27 +166,25 @@ Creativity is encouraged in personal punishment title choice, but no word used i
 
 Alcohol Consumption Punishment
 ------------------------------
-The Protectorship of a country is the title received by consuming alcohol at some point on the march. A country may only be protected by one marcher. If one loses this title, the now unprotected country may then be assumed by another attendee. If two people choose the same unprotected country in the same year, it goes to the person who has the most rank points.
+The Protectorship of a country is the title received by consuming alcohol at some point on the march. A member of a team may alternately choose a municipality of their team captain’s country. A municipality may only be protected by one marcher. If one loses this title, the now unprotected municipality may then be assumed by another attendee. If two people choose the same unprotected municipality in the same year, it goes to the person who has the most rank points.
 
 Tommy's Chili Punishment
 ------------------------
-Honorifics such as Sir, Doctor, Captain, Sama, Lady, and Master, among others, are applied based on the consumption of a chili-topped food product from Tommy's. Anyone who achieves this title and then misses a march is demoted to a Lord/Lady-in-waiting. If two consecutive marches are missed, this title will be stripped completely.
+Honorifics such as Sir, Doctor, Captain, Sama, Lady, and Master, among others, are applied based on the consumption of a chili-topped food product from Tommy's.
 
-Squire (or other appropriate diminutive title) is applied to people who are deemed to have not fully earned their honorific. This can be due to not consuming enough chili-topped food product.
-
-Creativity is encouraged in honorific choice, but no word used in an official officer’s title may be used as an honorific.
+Creativity is encouraged in honorific choice, but no word used in an official officer’s title may be used as an honorific.  
 
 Flagbearing Punishment
 ----------------------
-Anyone who brings a large flag approved by the Grand Marshal and carries it for the duration of the march shall earn the **Flagbearer** title.
+Anyone who brings a large flag approved by the Grand Marshal, praise be unto him, and carries it for the duration of the March shall earn the **Flagbearer**, **Bannerman**, **Bannerwoman**, or **Bannerperson** title.  
 
 Vegetarianism Punishment
 ------------------------
-Anyone who consumes vegetarian chili in lieu of the Tommy's Chili Punishment and does not eat meat for the entirety of the March shall earn membership into the Fraternity of an animal of their choice. This animal must be an animal that is normally bred for human consumption. The word used in the title for that animal should be a noble word rather than a common word. For example, rather than "pig" one could use "boar" or "Sus Scrofa."
+Anyone who consumes vegetarian chili in lieu of the Tommy's Chili Punishment and does not eat meat for the entirety of the March shall earn membership into the Fraternity or Sorority of an animal of their choice. This animal must be an animal that is normally bred for human consumption. The word used in the title for that animal should be a noble word rather than a common word. For example, rather than "pig" one could use "boar" or "Sus Scrofa."
 
 Noisemaking Punishment
 ----------------------
-Anyone who brings a noise maker approved by the Grand Marshal and uses it often for the duration of the March shall earn the **Troubadour** or **Bard** title.
+Anyone who brings a noise maker approved by the Grand Marshal, praise be unto him, and uses it often for the duration of the March shall earn the **Troubadour**, **Bard**, or **Herald** title.
 
 Marching in Drag Punishment
 ---------------------------
@@ -214,7 +202,7 @@ The Achievements
 ================
 Achievements can be completed for fun. They serve no purpose other than to provide bragging rights for having completed Achievements. An Achievement is a minor feat, defined henceforth in the Bylaws, that is completed by a Marcher during the course of any annual main-event Death March.
 
-Achievements are set apart from Punishments in that no title, prize, office, or power are bestowed upon having completed any or all Achievements; they are only made for fun and bragging rights. While Punishments must be completed annually, any given Achievement must only be completed once for any given Marcher to permanently earn credit for it.
+Achievements are set apart from Punishments in that no title, prize, office, or power are bestowed upon having completed any or all Achievements; they are only made for fun and bragging rights. While Punishments must be completed annually, any given Achievement must only be completed once for any given Marcher to permanently earn credit for it. Every year one earns an Achievement, they gain a level in said Achievement.
 
 Since there is nothing to be gained from completing Achievements, an unlimited number of them can be published to the Bylaws each year. That being said, note that Achievements, being published into the Bylaws, must be Rad-ified to be valid.
 
@@ -256,3 +244,4 @@ Current Achievements
 + Triathlete - Ride a bicycle to the beginning of the Death March, finish the Death March, and then dunk yourself in the Ocean at the end.
 + Lone Wolf - Complete the Death March without a team.
 + How I Met Your Mother - Bring your mother on the Death March.
++ Space Monkey – Shave your head for the Death March.
