@@ -72,9 +72,7 @@ Absentee Marches
 ----------------
 Absentee Marches are marches undertaken to make up for not being able to attend the most recent official Death March. They must be at least as long as the Death March in miles.  Absentee Marches are based on trust, but must be approved by the Grand Marshal, praise be unto him.  Approved Absentee Marches are worth two (2) rank points, restore one to the list of ranking members, and confer any titles earned for Punishments undertaken on the Absentee March.  Anyone who attends an Absentee March for support cannot be stripped of titles for not performing punishments earned on an official March, but it is considered bad form to do so. 
 
-Members who earned rank points on the Official March for the year cannot earn any more points for merely attending an absentee march. You may only earn points from an Absentee March if haven't already earned points from any participation on the previous march, except for members who failed to complete the Official March who may go on an Absentee March that year to receive two (2) points for marching. 
-
-One who has never been on a Death March can attend as an observer, however this March does not confer any points or ranks. 
+Members who earned rank points on the Official March for the year cannot earn any more points for merely attending an absentee march. You may only earn points from an Absentee March if haven't already earned points from any participation on the previous march, except for members who failed to complete the Official March who may go on an Absentee March that year to receive two (2) points for marching.
 
 Point Decay
 -----------
@@ -116,7 +114,7 @@ Chancellors are not considered full Officers for voting purposes, however a majo
 
 Champion of the Sea
 -------------------
-Champion of the Sea is the first person to travel only by foot and touch the ocean after the Grand Marshal, praise be unto him, has given the starting signal at Eagle Rock. Upon touching the ocean, they are immediately made a Chancellor with voting and nominating rights as such.  Champion of the Sea earns one (1) extra rank point for the year.
+Champion of the Sea is the first man and woman to travel only by foot and touch the ocean after the Grand Marshal, praise be unto him, has given the starting signal at Eagle Rock. Upon touching the ocean, they are immediately made a Chancellor with voting and nominating rights as such.  Champion of the Sea earns one (1) extra rank point for the year.
 
 In honor of the Papal History theme, the official title of the Champion of the Sea shall be “Bishop of Malibu, Vicar of Poseidon, Successor of the Champions of the Sea, Supreme Pontiff of the Universal March, Primate of Los Liones, Archbishop and Metropolitan of the Los Angeles Province, Sovereign of the Californian State, Servant of the servants of the Sea” for 2014 only. 
 
@@ -180,7 +178,7 @@ Anyone who brings a large flag approved by the Grand Marshal, praise be unto him
 
 Vegetarianism Punishment
 ------------------------
-Anyone who consumes vegetarian chili in lieu of the Tommy's Chili Punishment and does not eat meat for the entirety of the March shall earn membership into the Fraternity or Sorority of an animal of their choice. This animal must be an animal that is normally bred for human consumption. The word used in the title for that animal should be a noble word rather than a common word. For example, rather than "pig" one could use "boar" or "Sus Scrofa."
+Anyone who consumes vegetarian chili in lieu of the Tommy's Chili Punishment and does not eat meat for the entirety of the March shall earn membership into the Fraternity or Sorority of an animal of their choice. The word used in the title for that animal should be a noble word rather than a common word. For example, rather than "pig" one could use "boar" or "Sus Scrofa."
 
 Noisemaking Punishment
 ----------------------
@@ -243,5 +241,5 @@ Current Achievements
 + Fancy Pants - Wear formal attire for the entirety of the March.
 + Triathlete - Ride a bicycle to the beginning of the Death March, finish the Death March, and then dunk yourself in the Ocean at the end.
 + Lone Wolf - Complete the Death March without a team.
-+ How I Met Your Mother - Bring your mother on the Death March.
++ How I Met Your Mother - Bring your parent or child on the Death March.
 + Space Monkey – Shave your head for the Death March.
