@@ -12,7 +12,11 @@ The bylaws are the official rules of the Death March.
 
 Any change to the bylaws must be voted upon and **radified** with high fives or rapturous tapping upon a table in a room that has beer taps by a triumvirate of Officers.
 
-Bylaws are given a timestamp when radified and expire after 3 years.
+Bylaws are given a timestamp when radified and expire after 3 years. Bylaw renewal is done of a paragraph by paragraph basis and renewal date is judged by the most recent modification.
+
+Silver Clause
+=======
+On the 25th anniversary of the March, all previously expired or repealed bylaws shall be in force for 1 year.
 
 Term
 ====
@@ -110,7 +114,7 @@ Chancellors
 -----------
 Chancellors are the leaders of the various support corps of the Death March. A Chancellor can be nominated by any Officer, including another Chancellor. Upon confirmation by a triumvirate of Officers, the Chancellor gains a title such as “Chancellor of Transportation” or “Chancellor of Banquets.” They will hold this office until they resign, miss a march, or are stripped of their title by a triumvirate of Officers.
 
-Chancellors are not considered full Officers for voting purposes, however a majority vote of current Chancellors can equal the vote of one Officer.
+Chancellors are not considered full Officers for voting purposes, however a majority vote of two (2) or more present Chancellors can equal the vote of one Officer.
 
 Champion of the Sea
 -------------------
@@ -120,7 +124,7 @@ In honor of the Papal History theme, the official title of the Champion of the S
 
 MaST
 ----
-The Marcher Support Team (MaST) is a group of non-marching members who provide some sort of material support to the March (driving, setting up the banquet, creating schwag, timekeeping, etc.) In return for their service, they earn one (1) rank point. They are allowed to hold Officerships and Rank. All members of the MaST must be nominated and then approved by a triumvirate to earn this one (1) point. 
+The Marcher Support Team (MaST) is a group of non-marching members who provide some sort of material support to the March (driving, setting up the banquet, creating schwag, timekeeping, etc.) In return for their service, they earn one (1) rank point. They are allowed to hold Officerships and Rank. All members of the MaST must be nominated and then approved by a triumvirate to earn this one (1) point every year. 
 
 Cavalry
 -------
@@ -200,9 +204,11 @@ The Achievements
 ================
 Achievements can be completed for fun. They serve no purpose other than to provide bragging rights for having completed Achievements. An Achievement is a minor feat, defined henceforth in the Bylaws, that is completed by a Marcher during the course of any annual main-event Death March.
 
-Achievements are set apart from Punishments in that no title, prize, office, or power are bestowed upon having completed any or all Achievements; they are only made for fun and bragging rights. While Punishments must be completed annually, any given Achievement must only be completed once for any given Marcher to permanently earn credit for it. Every year one earns an Achievement, they gain a level in said Achievement.
+Achievements are set apart from Punishments in that no title, prize, office, or power are bestowed upon having completed any or all Achievements; they are only made for fun and bragging rights. While Punishments must be completed annually, any given Achievement must only be completed once for any given Marcher to permanently earn credit for it. If a bylaw governing an achievement expires, anyone having already earned that achievement retains the badge of achievement. Every year one earns an Achievement, they gain a level in said Achievement.
 
 Since there is nothing to be gained from completing Achievements, an unlimited number of them can be published to the Bylaws each year. That being said, note that Achievements, being published into the Bylaws, must be Rad-ified to be valid.
+
+Bullet points collectively count as a paragraph for all bylaws except achievements.
 
 Current Achievements
 --------------------
@@ -243,3 +249,8 @@ Current Achievements
 + Lone Wolf - Complete the Death March without a team.
 + How I Met Your Mother - Bring your parent or child on the Death March.
 + Space Monkey – Shave your head for the Death March.
++ The Fantastic Four - A team will earn four rank points to distribute as they please among four (4) different successful Death March participants for that year for completing all of the following four (4) conditions. There must be four (4) witnesses outside the team who can corroborate this story. This bylaw expires after four (4) years if no team has successfully completed it.
+++ The team must be four (4) or more people
+++ Four (4) of the team members must finish the march together, as in no one may register a finishing time between these four (4) members
+++ All team members must complete the same four (4) punishments
+++ Four (4) members of the team must complete four (4) unique achievements that are new to that member
