@@ -250,7 +250,7 @@ Current Achievements
 + How I Met Your Mother - Bring your parent or child on the Death March.
 + Space Monkey – Shave your head for the Death March.
 + The Fantastic Four - A team will earn four rank points to distribute as they please among four (4) different successful Death March participants for that year for completing all of the following four (4) conditions. There must be four (4) witnesses outside the team who can corroborate this story. This bylaw expires after four (4) years if no team has successfully completed it.
-1. The team must be four (4) or more people
-2. Four (4) of the team members must finish the march together, as in no one may register a finishing time between these four (4) members
-3. All team members must complete the same four (4) punishments
-4. Four (4) members of the team must complete four (4) unique achievements that are new to that member
+ 1. The team must be four (4) or more people
+ 2. Four (4) of the team members must finish the march together, as in no one may register a finishing time between these four (4) members
+ 3. All team members must complete the same four (4) punishments
+ 4. Four (4) members of the team must complete four (4) unique achievements that are new to that member
