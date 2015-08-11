@@ -15,7 +15,7 @@ Any change to the bylaws must be voted upon and **radified** with high fives or 
 Bylaws are given a timestamp when radified and expire after 3 years. Bylaw renewal is done of a paragraph by paragraph basis and renewal date is judged by the most recent modification.
 
 Silver Clause
-=======
+--------------
 On the 25th anniversary of the March, all previously expired or repealed bylaws shall be in force for 1 year.
 
 Term
